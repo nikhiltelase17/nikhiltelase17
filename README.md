@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me
-- linkdin accoutnt >>> https://www.linkedin.com/in/nikhil-telase-7bbb9b219/
+- linkdin accoutnt >>> https://www.linkedin.com/in/nikhiltelase/
 - Email account >>> nikhiltelase@gmail.com
 
 <!---
